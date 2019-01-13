@@ -1,13 +1,14 @@
 
-inclomplete:
+#Inclomplete:
 Class multiple inheritance conflicting methods
-os module
-comprehension
-details about type conversion
-pass by reference, pass by value
+OS module
+Comprehension
+Details about type conversion
+Pass by reference, pass by value
 
 
-Completed:
+#Completed:
+
 Input
 Output
 Comments
@@ -16,8 +17,8 @@ Operators
 Condiotions (if else)
 Nested conditions
 While Loops
-for loop with range and with in
-for loop with else
+For loop with range and with in
+For loop with else
 Functions
 Function with parameter
         with return
@@ -29,8 +30,8 @@ String
 List
 Tuple
 Dictionary
-set
-error handling
-handling file
-function overloading
-importing outside file
+Set
+Error handling
+Handling file
+Function overloading
+Importing outside file
