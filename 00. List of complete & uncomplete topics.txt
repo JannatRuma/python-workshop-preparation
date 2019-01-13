@@ -7,7 +7,7 @@ Details about type conversion
 Pass by reference, pass by value
 
 
-***Completed:***
+***Completed:
 
 Input
 Output
