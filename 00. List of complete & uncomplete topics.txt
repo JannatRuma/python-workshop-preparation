@@ -1,5 +1,5 @@
 
-#Inclomplete:
+***Inclomplete:
 Class multiple inheritance conflicting methods
 OS module
 Comprehension
@@ -7,7 +7,7 @@ Details about type conversion
 Pass by reference, pass by value
 
 
-#Completed:
+***Completed:***
 
 Input
 Output
